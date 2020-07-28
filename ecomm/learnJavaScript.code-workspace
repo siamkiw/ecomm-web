@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/original"
+		},
+		{
+			"path": "../../../../Downloads/original-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascriptTest"
+	}
+}
